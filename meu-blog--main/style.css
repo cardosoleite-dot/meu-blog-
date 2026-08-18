@@ -1,0 +1,20 @@
+:root {
+  --branco: #f1faeeff;
+  --azul-claro: #a8dadcff;
+  --azul: #457b9dff;
+  --azul-escuro: #1d3557ff;
+}
+*{
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: var(--azul-claro);
+  font-family: var(--azul-escuro);
+}
+
+header {
+
+  background-color: var(--azul);
+}
